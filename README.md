@@ -54,7 +54,7 @@ npm run lint     # checks code style
    cd <repo-folder>
 ```
 
-`cd` means "change directory". To check you're in the right place, run `ls` (Mac/Linux) or `dir` (Windows) --- you should see `server.js`, `package.json`, and the `routes`, `db`, and `tests` folders.
+`cd` means "change directory". To check you're in the right place, run `ls` (Mac/Linux) or `dir` (Windows) - you should see `server.js`, `package.json`, and the `routes`, `db`, and `tests` folders.
 
 ### Tasks
 
